@@ -1,5 +1,5 @@
 # NetScanTools
-NetScanTools is a set of network analysis and automation scripts. These tools are designed to assist with basic network tasks and are for educational purposes only.
+NetScanTools is a set of network analysis and automation scripts. These tools are designed to assist with basic network tasks and are a sneak preview for those looking for help to be a DDbos.
 
 ## Tools Included
 1. **NetScanner.py**: Scans a network range for active devices.
