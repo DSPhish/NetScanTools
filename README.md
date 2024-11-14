@@ -1,19 +1,12 @@
 # NetScanTools
-_Discreet tools for advanced operations._
+NetScanTools is a set of network analysis and automation scripts. These tools are designed to assist with basic network tasks and are for educational purposes only.
 
-## Features:
-- Encrypted data exfiltration
-- Automated network mapping
-- Target-specific payload deployment
+## Tools Included
+1. **NetScanner.py**: Scans a network range for active devices.
+2. **DNSExtractor.py**: Extracts DNS information for specified domains.
+3. **PortMapper.py**: Maps open ports on a target IP address.
+4. **EmailHarvester.py**: Harvests email addresses from public websites.
+5. **DataParser.py**: Parses raw data into structured formats.
+6. **CredentialTester.py**: Simulates credential testing against a database.
 
-## Use Cases:
-- Assessing vulnerabilities in closed environments.
-- Secure information extraction.
-- Customized payload deployment.
-
-> **Disclaimer**: For educational purposes only.
-
-## Version History:
-- **v2.1.0 - 2023-06-15**: Improved payload encryption.
-- **v2.0.0 - 2023-05-20**: Added web scraper for credential harvesting.
-- **v1.0.0 - 2023-03-01**: Initial release.
+*Note: These scripts are for demonstration purposes and do not perform any actual network operations.*
